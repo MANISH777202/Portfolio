@@ -9,10 +9,9 @@ Features
 ✅ Fast & Scalable – Built with efficient web technologies.
 
 Tech Stack
-Frontend: React.js, Tailwind CSS / Bootstrap (if used)
+Frontend: React.js, Tailwind CSS / Bootstrap 
 Backend: Node.js, Express.js
-Database (if applicable): MongoDB / MySQL
-Deployment: Vercel / Netlify (Frontend), Render / Railway / AWS (Backend)
+Deployment: = Netlify (Frontend)
 Getting Started
 Clone the repository
 sh
@@ -22,5 +21,9 @@ git clone https://github.com/MANISH777202/Portfolio.git
 cd Portfolio
 
 For working
+
 cd src
+
 npm install
+
+npm start
